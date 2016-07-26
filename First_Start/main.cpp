@@ -1,5 +1,6 @@
 // Created by Melentyev 25.07.16
 
+#pragma once
 #include <iostream>
 #include "FBullCowGame.h"
 
